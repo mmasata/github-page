@@ -3,7 +3,7 @@ I am a Software engineer with experience mainly with Java and Spring
 framework. My other area is software architecture, mainly Microservices
 architecture. In my leisure time I work on my open-source projects.
 
-# Skills
+# :hammer_and_wrench: Skills
 * Java 8,11,17
 * Spring framework
 * SQL
@@ -18,7 +18,7 @@ architecture. In my leisure time I work on my open-source projects.
 * Data structures
 * Algorithms
 
-# Employment
+# :memo: Employment
 
 ## Tekies
 ### Java Software Engineer - *(January 2023 - March 2023, Prague)* 
@@ -49,7 +49,7 @@ During my studies I worked as a tester, where I did manual tests on Frontend or 
 Later I also got involved in developing automated tests in Robot Framework. 
 
 
-# Education
+# :school: Education
 ## Czech Technical University in Prague
 ### [Master degree](https://dspace.cvut.cz/handle/10467/109230) *(October 2021 - June 2023, Prague)*
 Study at the Faculty of Electrical Engineering. Field of study Open
@@ -61,7 +61,7 @@ engineering and technology.
 
 
 
-# Certifications
+# :scroll: Certifications
 ## [Certified SAFE practitioner](https://www.credly.com/badges/0b8be090-b01e-492f-aaf8-bd83e9d86a88/linked_in_profile)
 Certificate for agile methodology SAFE.
 
@@ -70,7 +70,7 @@ Certificate in Fundamentals of Artificial Intelligence.
 
 
 
-# My Projects
+# :game_die: My Projects
 ## [Miniweb](https://github.com/mmasata/miniweb)
 Web application framework designed for easy creation of REST API for
 ESP microchips.
