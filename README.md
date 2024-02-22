@@ -5,6 +5,7 @@ architecture. In my leisure time I work on my open-source projects.
 
 # :hammer_and_wrench: Skills
 * Java 8,11,17
+* Maven
 * Spring framework
 * SQL
 * Hibernate
