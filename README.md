@@ -21,7 +21,7 @@ architecture. In my leisure time I work on my open-source projects.
 # :memo: Employment
 
 ## Tekies
-### Java Software Engineer - *(January 2023 - March 2023, Prague)* 
+### Java Software Engineer - *(January 2023 - March 2024, Prague)* 
 
 I used to work as a freelancer for a telco company. I was involved in the analysis, design and development of microservices applications.
 
