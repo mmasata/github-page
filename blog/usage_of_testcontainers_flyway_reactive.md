@@ -15,13 +15,13 @@ using migration scripts and automatically apply them to the target database.
 
 #### Example
 
-For example, we have a new application where we know we need the 'Customer' table in the relational database. So we
+For example, we have a new application where we know we need the 'User' table in the relational database. So we
 create the first migration script.
 
-* V1__create_customer.sql
+* V1__create_user.sql
 
 ```sql
-CREATE TABLE customer
+CREATE TABLE user
 (
     id         UUID PRIMARY KEY,
     first_name TEXT NOT NULL,
@@ -35,7 +35,7 @@ a new SQL that will make the changes.
 * V2__add_age_column.sql
 
 ```sql
-ALTER TABLE customer
+ALTER TABLE user
     ADD age INT;
 ```
 
