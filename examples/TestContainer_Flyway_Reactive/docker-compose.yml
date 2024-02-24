@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  database:
+    image: postgres:15-alpine
+    volumes:
+      - ./.data/db-local:/var/lib/postgresql15/data
+    environment:
+      - POSTGRES_DB=demo_app
+      - POSTGRES_USER=test
+      - POSTGRES_PASSWORD=test
+    ports:
+      - "127.0.0.1:5435:5432"
+    command: postgres -c random_page_cost=1.0
