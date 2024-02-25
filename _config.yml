@@ -1,9 +1,11 @@
 title: Martin Mašata
 description: My Personal Page
 remote_theme: pages-themes/hacker@v0.2.0
+url: https://mmasata.github.io/
 plugins:
   - jemoji
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-sitemap
 linkedin_url: https://www.linkedin.com/in/martin-masata/
 github:
   profile_url: https://github.com/mmasata
