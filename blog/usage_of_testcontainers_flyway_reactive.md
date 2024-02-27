@@ -318,11 +318,12 @@ static void configureProperties(DynamicPropertyRegistry registry) {
 
 
 And now, after running the integration test, the TestContainer should be started, which runs the migration scripts immediately after starting. After that, the integration tests will start, where the application will be able to connect to the database via R2DBC.
-The full sample application is available here: https://github.com/mmasata/mmasata.github.io/tree/master/examples/TestContainer_Flyway_Reactive
+
+The full sample application can be found on [GitHub repository](https://github.com/mmasata/mmasata.github.io/tree/master/examples/TestContainer_Flyway_Reactive)
 
 
 
 
 **Warning**: The solution works with a specific PostgreSQL relational database, so if you are using another database, you must
-modify dependencies and image containers in the test.
+modify dependencies and docker image in the test.
 
