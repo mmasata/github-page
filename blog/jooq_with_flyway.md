@@ -157,6 +157,7 @@ PostgresSQL
 and I have some specifics just for that database, then two things can happen:
 
 a) H2 database is not even initialized because it is not able to
+
 b) H2 database is initialized with limited functionality or slightly differently and the resulting generated code may
 not
 work against a real database
